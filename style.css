@@ -1,0 +1,38 @@
+.nav-item {
+    text-align: center;
+    list-style: none;
+
+}
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+.inline {
+    display: inline;
+    padding: 1rem;
+}
+.header {
+    padding-top: 1rem;
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+.link-responce {
+    padding-bottom: 1rem;
+    text-decoration: underline;
+}
+.section {
+    background-color:#FDE68A;
+    width: 300px;
+    /* height: 400px; */
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.img {
+    max-width: 100%;
+    height: 50%;
+}
